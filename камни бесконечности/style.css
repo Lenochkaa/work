@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(80, 11, 126);
+}
+table {
+ width: 1000px;
+ height: 1300px;
+}
+img {
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+}
+.glav {
+    background-color: rgb(241, 146, 213);
+}
+.s2 {
+    background-color: rgb(255, 100, 255);
+}
+.s3 {
+    background-color: hotpink;
+}
+.s4 {
+    background-color: rgb(255, 100, 255);
+}
+.s5 {
+    background-color: hotpink;
+}
+.s6 {
+    background-color: rgb(255, 100, 255);
+}
+.s7 {
+    background-color: hotpink;
+}

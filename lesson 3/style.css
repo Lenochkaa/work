@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+body {
+    background-color: burlywood;
+}
+table {
+    margin: auto;
+    width: 600px;
+    height: 450px;
+}
+.tat {
+    font-family: 'Roboto Slab', serif;
+}
+.font {
+    font-family: 'Roboto Slab', serif;
+}
+.font1 {
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(214, 145, 96);
+}
+.font2 {
+    font-family: 'Roboto Slab', serif;
+}
+.font3 {
+    font-family: 'Roboto Slab', serif;
+}
+.font4 {
+    font-family: 'Roboto Slab', serif;
+}
+.font5 {
+    font-family: 'Roboto Slab', serif;
+}
+th {
+    background-color: bisque;
+    color: rgb(165, 87, 42);
+}

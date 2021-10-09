@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+}
+table {
+    background-color: rgb(235, 137, 137);
+}
+.row {
+    color: rgb(255, 255, 255);
+    background: rgb(215,24,57);
+    background: linear-gradient(90deg, rgba(215,24,57,1) 0%, rgba(126,23,23,1) 34%, rgba(233,187,140,1) 65%, rgba(249,222,185,1) 100%);
+}
+.row1 {
+    background: rgb(215,24,57);
+    background: linear-gradient(90deg, rgba(215,24,57,1) 0%, rgba(210,61,50,1) 65%, rgba(157,54,20,1) 100%);
+}
+.sotka {
+    background-color: crimson;
+}
